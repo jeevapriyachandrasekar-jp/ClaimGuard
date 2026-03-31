@@ -1,0 +1,5 @@
+{
+  "name": "AutoClaim AI",
+  "description": "An AI-powered vehicle insurance claim system with automated verification, document management, and dual-role interfaces for policyholders and assessors.",
+  "requestFramePermissions": []
+}
